@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  taskchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-03T12:33:59.159783+01:00"
+    dependencies:
+    - name: tomcat
+      repository: http://charts.bitnami.com/bitnami
+      version: '>=10.5.13'
+    description: A Helm chart for Kubernetes
+    digest: cc3d85556c0abf1fe68c947f3181709b5aa0fd15435448b70343c2831523eecf
+    name: taskchart
+    type: application
+    urls:
+    - taskchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-03T12:33:59.155761+01:00"
